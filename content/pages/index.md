@@ -173,7 +173,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
