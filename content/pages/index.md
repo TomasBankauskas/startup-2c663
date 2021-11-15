@@ -272,7 +272,7 @@ sections:
           - mb-0
   - elementId: ''
     variant: variant-b
-    colors: colors-h
+    colors: colors-f
     actions:
       - type: Button
         label: View all
