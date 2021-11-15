@@ -277,7 +277,6 @@ sections:
   - elementId: ''
     colors: colors-h
     title: The Section Title
-    subtitle: The section subtitle
     text: >
       > We sometimes write things. You should read it, it might shed some light
       on why we’re doing what we’re doing
