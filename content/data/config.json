@@ -53,7 +53,7 @@
         }
     },
     "footer": {
-        "colors": "colors-f",
+        "colors": "colors-c",
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.svg",
