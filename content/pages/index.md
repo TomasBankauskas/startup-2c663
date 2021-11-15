@@ -93,7 +93,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg
       altText: Hero section image
     styles:
       self:
