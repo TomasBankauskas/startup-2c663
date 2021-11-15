@@ -327,7 +327,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - type: ContactSection
-    colors: colors-h
+    colors: colors-e
     title: Join our club
     text: >-
       We will notify you every time a shipment is heading to your neighborhood,
