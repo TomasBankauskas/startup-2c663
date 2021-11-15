@@ -156,6 +156,8 @@ sections:
         fontWeight: 700
         fontStyle: normal
         textAlign: left
+        margin:
+          - mb-4
       subtitle:
         fontWeight: 400
         fontStyle: normal
