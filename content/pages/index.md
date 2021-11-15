@@ -276,7 +276,6 @@ sections:
   - elementId: ''
     variant: variant-b
     colors: colors-h
-    subtitle: Featured blog posts section example
     actions:
       - type: Button
         label: View all
