@@ -240,9 +240,6 @@ sections:
         label: Learn More
         url: /
         style: secondary
-    feature:
-      type: ImageBlock
-      altText: Hero section image
     styles:
       self:
         height: auto
