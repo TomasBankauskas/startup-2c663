@@ -172,54 +172,6 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
-  - elementId: ''
-    colors: colors-a
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    title: This Is A Big Hero Headline
-    subtitle: The section subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: TestimonialsSection
     colors: colors-h
     testimonials:
@@ -281,6 +233,54 @@ sections:
         margin:
           - mt-0
           - mb-0
+  - elementId: ''
+    colors: colors-a
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: This Is A Big Hero Headline
+    subtitle: The section subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    feature:
+      type: ImageBlock
+      url: /images/hero.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-a
     backgroundImage:
