@@ -353,7 +353,7 @@ sections:
           name: home-address
           label: Home address
           placeholder: Your home address
-          isRequired: true
+          isRequired: false
           width: full
         - type: CheckboxFormControl
           name: updates
