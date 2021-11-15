@@ -219,10 +219,9 @@ sections:
   - type: TestimonialsSection
     colors: colors-h
     testimonials:
-      - quote: >+
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-
+      - quote: >
+          “We sometimes write things. You should read it, it might shed some
+          light on why we’re doing what we’re doing”
         name: Isabelle Parks
         title: Head chef at Parks
         styles:
