@@ -223,7 +223,9 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: This Is A Big Hero Headline
+    title: >-
+      “We sometimes write things. You should read it, it might shed some light
+      on why we’re doing what we’re doing”
     subtitle: The section subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
