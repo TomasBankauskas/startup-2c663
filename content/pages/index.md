@@ -129,10 +129,6 @@ sections:
           sustainable fish supply to home cooks.”
         name: Isabelle Parks
         title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/isabelle-parks.jpg
-          altText: Isabelle Parks
         styles:
           self:
             margin:
