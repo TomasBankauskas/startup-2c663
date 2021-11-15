@@ -123,7 +123,7 @@ sections:
     type: HeroSection
   - elementId: ''
     variant: variant-b
-    colors: colors-i
+    colors: colors-g
     title: Featured
     subtitle: Featured blog posts section example
     actions:
