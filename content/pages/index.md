@@ -214,7 +214,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: TestimonialsSection
-    colors: colors-h
+    colors: colors-f
     testimonials:
       - quote: >
           **“We sometimes write things. You should read it, it might shed some
