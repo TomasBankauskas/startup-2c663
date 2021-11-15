@@ -337,12 +337,6 @@ sections:
       destination: ''
       action: /.netlify/functions/submission_created
       fields:
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: true
-          width: 1/2
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
