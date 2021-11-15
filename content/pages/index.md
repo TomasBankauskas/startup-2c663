@@ -277,8 +277,8 @@ sections:
     colors: colors-h
     title: The Section Title
     text: >
-      > We sometimes write things. You should read it, it might shed some light
-      on why we’re doing what we’re doing
+      > ## We sometimes write things. You should read it, it might shed some
+      light on why we’re doing what we’re doing
     styles:
       self:
         height: auto
