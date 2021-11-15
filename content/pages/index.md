@@ -177,7 +177,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: This Is A Big Hero Headline
+    title: And a strong value proposition
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
