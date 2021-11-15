@@ -74,11 +74,9 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Where did everyone go?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Learn how top tech companies have learned working remote using our
+      product. 
     actions:
       - type: Button
         label: Get Started
