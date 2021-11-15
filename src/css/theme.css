@@ -1,7 +1,30 @@
 @import 'tailwindcss/components';
 
 @layer components {
-    .sb-component-button {
-        @apply border-4;
+    .colors-e {
+        @apply bg-primary text-primaryContent;
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            @apply text-white;
+        }
+        .sb-component-button-primary {
+            @apply bg-neutral border-neutral text-primaryContent;
+        }
+        .sb-component-button-secondary {
+            @apply border-neutral text-primaryContent;
+        }
+    }
+    ,
+    .colors-f {
+        .sb-component-button-primary {
+            @apply bg-primary border-primary text-primaryContent;
+        }
+        .sb-component-button-secondary {
+            @apply border-neutral text-white;
+        }
     }
 }
