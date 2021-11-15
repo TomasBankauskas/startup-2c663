@@ -12,7 +12,7 @@ sections:
       mentored, help peers, get helped in return.
     actions:
       - type: Button
-        label: Get Started
+        label: Sign Up
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
