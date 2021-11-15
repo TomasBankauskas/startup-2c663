@@ -323,9 +323,9 @@ sections:
   - type: ContactSection
     colors: colors-e
     title: Get early access
-    text: >-
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not.
+    text: >
+      Sign up your team today to be the first to try out our new product to
+      increae your team’s productivity
     form:
       type: FormBlock
       elementId: contact-form
