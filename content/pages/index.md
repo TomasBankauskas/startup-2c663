@@ -322,7 +322,7 @@ sections:
     type: FeaturedPostsSection
   - type: ContactSection
     colors: colors-e
-    title: Join our club
+    title: Get early access
     text: >-
       We will notify you every time a shipment is heading to your neighborhood,
       and you could immediatly let us know if you want in or not.
