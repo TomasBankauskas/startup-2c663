@@ -321,7 +321,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - type: ContactSection
-    colors: colors-e
+    colors: colors-f
     title: Get early access
     text: >
       Sign up your team today to be the first to try out our new product to
