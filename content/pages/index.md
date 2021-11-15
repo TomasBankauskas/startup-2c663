@@ -69,7 +69,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedPostsSection
-    variant: variant-c
+    variant: variant-d
     colors: colors-c
     title: Blog Posts
     posts:
