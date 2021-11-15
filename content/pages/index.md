@@ -347,6 +347,12 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
+        - name: lorem-ipsum
+          label: Name
+          placeholder: Your name
+          isRequired: false
+          width: full
+          type: EmailFormControl
       submitLabel: Send Message
     styles:
       self:
