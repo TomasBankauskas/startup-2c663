@@ -40,7 +40,7 @@
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
-        "borderRadius": 0,
+        "borderRadius": "0.5rem",
         "borderStyle": "solid",
         "horizontalPadding": 24,
         "verticalPadding": 12,
