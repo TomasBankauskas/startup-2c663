@@ -68,49 +68,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-  - type: FeaturedPostsSection
-    variant: variant-d
-    colors: colors-c
-    title: Blog Posts
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-neutral
-      title:
-        fontWeight: '700'
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-12
-      subtitle:
-        fontWeight: '400'
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-0
-      actions:
-        justifyContent: center
   - type: TestimonialsSection
     colors: colors-h
     testimonials:
