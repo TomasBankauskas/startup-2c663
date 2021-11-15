@@ -69,7 +69,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    variant: variant-c
+    variant: variant-b
     colors: colors-c
     title: Featured
     subtitle: Featured blog posts section example
