@@ -25,9 +25,13 @@
     "primary": "#344FF1",
     "primaryContent": "#ffffff",
     "secondary": "#F6F1ED",
+    "secondaryContent": "#F6F1ED",
     "neutral": "#282f36",
+    "neutralContent": "#ffffff",
     "complementary": "#e9f6ff",
+    "complementaryContent": "#ffffff",
     "complementaryAlt": "#fffde2",
+    "complementaryAltContent": "#ffffff",
     "buttonPrimary": {
         "weight": "normal",
         "case": "uppercase",

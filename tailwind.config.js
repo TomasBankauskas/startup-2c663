@@ -9,11 +9,15 @@ module.exports = {
                 body: themeStyle.body,
                 headlines: themeStyle.headlines,
                 primary: themeStyle.primary,
-                primaryContent: themeStyle.primaryContent,
+                'primary-content': themeStyle.primaryContent,
                 secondary: themeStyle.secondary,
+                'secondar-content': themeStyle.secondaryContent,
                 neutral: themeStyle.neutral,
+                'neutral-content': themeStyle.neutralContent,
                 complementary: themeStyle.complementary,
-                'complementary-alt': themeStyle.complementaryAlt
+                'complementary-content': themeStyle.complementaryContent,
+                'complementary-alt': themeStyle.complementaryAlt,
+                'complementary-alt-content': themeStyle.complementaryAltContent
             },
             fontFamily: {
                 body: themeStyle.fontBody,
